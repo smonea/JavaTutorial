@@ -23,4 +23,7 @@ public class OOPTest {
 
         McL.prezentareComandaMcLaren();
     }
+
+
+    //tema - la fel cu orice vrem noi
 }
