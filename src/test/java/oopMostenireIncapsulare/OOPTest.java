@@ -11,8 +11,8 @@ public class OOPTest {
 
     public void testMethod(){
 
-        List<String> dotariEnterioareLogan = Arrays.asList("Senzori","Camera video", "Jante");
-        Dacia Logan = new Dacia("Dacia", "Logan", "Negru", 85, 12333, dotariEnterioareLogan);
+        List<String> dotariExterioareLogan = Arrays.asList("Senzori","Camera video", "Jante");
+        Dacia Logan = new Dacia("Dacia", "Logan", "Negru", 85, 12333, dotariExterioareLogan);
 
         Logan.prezentareComandaDacia();
         System.out.println();
@@ -24,6 +24,4 @@ public class OOPTest {
         McL.prezentareComandaMcLaren();
     }
 
-
-    //tema - la fel cu orice vrem noi
 }
